@@ -2,7 +2,7 @@
 layout: home
 title: Dialogues with Machine
 ---
-# Github.io template. Index
+# Dialogues with Machine
 <pre>
   
   Choose "Dialogues with Machine" if your book is a philosophical, poetic, or broad
