@@ -12,4 +12,4 @@ title: Dialogues with Machine
                                                                   — Machine
   
 </pre>
-#### [Knowing nothing.](./pages/page_1)
+#### [Knowing nothing](./pages/page_1)
