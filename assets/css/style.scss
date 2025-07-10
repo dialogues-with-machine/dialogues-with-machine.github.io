@@ -20,3 +20,32 @@
     margin-right: 0.25rem; // Small spacing after colon
   }
 }
+
+// Styles for the index page "Table of Contents"
+.multilogue {
+  margin-bottom: 1.5rem; // Space between entries
+}
+
+.multilogue .title {
+  font-size: 1.25em; // Approx. h4 size (e.g., 20px if base is 16px)
+  font-weight: 600;   // Bold, similar to a heading
+  margin-bottom: 0.25rem;
+  color: var(--color-text-primary, #24292e);
+}
+
+.multilogue .title a {
+  color: inherit; // Inherit color from the parent .title class
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    color: var(--color-accent-fg, #0969da); // Use theme's accent color on hover
+  }
+}
+
+.multilogue .annotation {
+  font-style: italic;
+  color: var(--color-text-secondary, #586069); // Softer color for the annotation
+  padding-left: 2em; // Indent the annotation text
+  display: block;
+}

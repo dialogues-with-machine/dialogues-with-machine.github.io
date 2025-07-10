@@ -12,4 +12,10 @@ title: Dialogues with Machine
                                                                   — Machine
   
 </pre>
-#### [Knowing nothing](./pages/page_1)
+
+<div class="multilogue">
+  <div class="title"><a href="{{ site.baseurl }}/pages/page_1">Knowing nothing</a></div>
+  <div class="annotation">
+    Wherein the nature of wisdom is examined, and a discourse is held upon the Socratic paradox of acknowledging one's own ignorance as a form of knowledge.
+  </div>
+</div>
