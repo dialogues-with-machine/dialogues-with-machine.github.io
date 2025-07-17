@@ -14,7 +14,7 @@ title: Dialogues with Machine
 </pre>
 
 <div class="table-of-contents">
-  <div class="title"><a href="{{ site.baseurl }}/pages/page_1">Knowing nothing</a></div>
+  <div class="title"><a href="{{ site.baseurl }}/pages/knowing_nothing">Knowing nothing</a></div>
   <div class="annotation">
     Wherein the nature of wisdom is examined, and a discourse is held upon the Socratic paradox of acknowledging one's own ignorance as a form of knowledge.<br/>
     ...and the reason why it should be discussed <b>now</b> is: humans will know 'nothing' compared to <b>the Machine</b> from now on.
