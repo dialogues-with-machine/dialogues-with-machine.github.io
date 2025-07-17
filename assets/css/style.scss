@@ -22,18 +22,18 @@
 }
 
 // Styles for the index page "Table of Contents"
-.multilogue {
+.table-of-contents {
   margin-bottom: 1.5rem; // Space between entries
 }
 
-.multilogue .title {
+.table-of-contents .title {
   font-size: 1.25em; // Approx. h4 size (e.g., 20px if base is 16px)
   font-weight: 600;   // Bold, similar to a heading
   margin-bottom: 0.25rem;
   color: var(--color-text-primary, #24292e);
 }
 
-.multilogue .title a {
+.table-of-contents .title a {
   color: inherit; // Inherit color from the parent .title class
   text-decoration: none;
 
@@ -43,7 +43,7 @@
   }
 }
 
-.multilogue .annotation {
+.table-of-contents .annotation {
   font-style: italic;
   color: var(--color-text-secondary, #586069); // Softer color for the annotation
   padding-left: 2em; // Indent the annotation text
