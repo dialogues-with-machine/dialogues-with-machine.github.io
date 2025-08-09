@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Truths seeking
+title: Truth seeking
 ---
 ### Truth seeking
 
