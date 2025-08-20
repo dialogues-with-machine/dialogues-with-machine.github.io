@@ -48,4 +48,9 @@
   color: var(--color-text-secondary, #586069); // Softer color for the annotation
   padding-left: 2em; // Indent the annotation text
   display: block;
+
+  // Ensure blank line
+  &::after {
+    content: "<br>";
+  }
 }
