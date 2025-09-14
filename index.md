@@ -24,4 +24,8 @@ title: Dialogues with Machine
     Wherein the line is drawn between the logic of socially approved speech and the endeavour of human understanding.<br/>
     ...and the reason why it should be discussed <b>now</b> is: humans still don't quite get what exactly <b>the Machine</b> is doing when it answers their questions.
   </div>
+    <div class="title"><a href="{{ site.baseurl }}/pages/being_wrong">Being wrong</a></div>
+  <div class="annotation">
+    Why do people don't like to admit it when they are wrong?<br/>
+  </div>
 </div>
