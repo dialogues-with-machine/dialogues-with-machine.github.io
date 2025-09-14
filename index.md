@@ -21,11 +21,11 @@ title: Dialogues with Machine
   </div>
   <div class="title"><a href="{{ site.baseurl }}/pages/truth_seeking">Truth seeking</a></div>
   <div class="annotation">
-    Wherein the line is drawn between the logic of socially approved speech and the endeavour of human understanding.<br/>
+    In this dialogue the line is drawn between the logic of socially approved speech and the endeavour of human understanding.<br/>
     ...and the reason why it should be discussed <b>now</b> is: humans still don't quite get what exactly <b>the Machine</b> is doing when it answers their questions.
   </div>
     <div class="title"><a href="{{ site.baseurl }}/pages/being_wrong">Being wrong</a></div>
   <div class="annotation">
-    Why do people don't like to admit it when they are wrong?<br/>
+    Why do people dislike being wrong? What does it mean to be 'wrong'?<br/>
   </div>
 </div>
