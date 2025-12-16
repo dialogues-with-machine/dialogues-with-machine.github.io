@@ -19,13 +19,13 @@ title: Dialogues with Machine
     Wherein the nature of wisdom is examined, and a discourse is held upon the Socratic paradox of acknowledging one's own ignorance as a form of knowledge.<br/>
     ...and the reason why it should be discussed <b>now</b> is: humans will 'know nothing' compared to <b>the Machine</b> from now on.
   </div>
-  <div class="title"><a href="{{ site.baseurl }}/pages/truth_seeking">Truth seeking</a></div>
+  <div class="title"><a href="{{ site.baseurl }}/pages/seeking_the_truth">Seeking the Truth</a></div>
   <div class="annotation">
     In this dialogue the line is drawn between the logic of socially approved speech and the endeavour of human understanding.<br/>
     ...and the reason why it should be discussed <b>now</b> is: humans still don't quite get what exactly <b>the Machine</b> is doing when it answers their questions.
   </div>
     <div class="title"><a href="{{ site.baseurl }}/pages/being_wrong">Being wrong</a></div>
-  <div class="annotation">
-    Why do people dislike being wrong? What does it mean to be 'wrong'?<br/>
+    <div class="annotation">
+      Why do people dislike being wrong? What does it mean to be 'wrong'?<br/>
   </div>
 </div>
